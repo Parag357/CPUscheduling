@@ -1,3 +1,6 @@
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-c.svg)](https://www.cprogramming.com/)
+
 # Overview of this Project:
 
 One of the main tasks of an operating system is scheduling processes to run on the CPU. The goal of this project is to build a program to implement a simulator with different CPU
